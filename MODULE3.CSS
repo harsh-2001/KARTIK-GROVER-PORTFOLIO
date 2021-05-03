@@ -1,0 +1,40 @@
+BODY{
+	background-color: lightblue;
+}
+h2{
+	color: red;
+}
+.social-icon{
+	display:flex;
+	
+}
+.social-item{
+	width:25%;
+	height:110px;
+}
+
+
+
+#footer{
+	background-color: black;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+.cta {
+	display:inline-block;
+	padding:10px 30px;
+    color: ;
+    background-color: transparent;
+    border:2px solid crimson;
+    font size:2rem;
+    text-transform:uppercase;
+    letter-spacing: .1rem;
+    margin top:30px;
+    transition:.3s;
+    transition-property:background-color,color;
+}
+.btn:hover {
+	
+
+}
